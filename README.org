@@ -8,4 +8,4 @@ Quadtree data structure in Common Lisp
 | systems | quadtree |
 |---------+-------------------------------------------|
 
- 
+  
